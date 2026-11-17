@@ -26,7 +26,7 @@ Building production web platforms, computer vision pipelines, and autonomous har
 
 | Project | Stack | Overview |
 | :--- | :--- | :--- |
-| [**specproof-**](https://github.com/Claw2M/specproof-) | `TypeScript` | Open-core diff-scoped test integrity, parallel micro-mutation engine, MCP server, and spec-to-PR verification gate for AI-assisted engineering teams. |
+| [**specproof**](https://github.com/Claw2M/specproof) | `TypeScript` | Open-core diff-scoped test integrity, parallel micro-mutation engine, MCP server, and spec-to-PR verification gate for AI-assisted engineering teams. |
 | [**TULPAR**](https://github.com/Claw2M/TULPAR) | `Rust` | Systems engineering repository in Rust. |
 | [**devpulse**](https://github.com/Claw2M/devpulse) | `TypeScript` | Developer-focused TypeScript application. |
 
